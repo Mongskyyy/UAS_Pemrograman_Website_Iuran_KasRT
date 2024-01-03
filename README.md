@@ -1,2 +1,3 @@
 # UAS_Pemrograman_Website
-# tugas yang sangat syulittttt
+
+# HAJARRRRRR LURRR :v
