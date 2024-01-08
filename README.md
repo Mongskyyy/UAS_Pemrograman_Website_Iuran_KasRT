@@ -28,7 +28,6 @@
 
 ### Link Demo Website : https://ardiiman.contohdomain.com/
 
-### Laporan PDF : https://drive.google.com/drive/folders/1sUG2vShCW0Y9OiZV2FogRce3nP9bwQ6i?usp=drive_link
 
 ---
 ## Output data_warga_user
