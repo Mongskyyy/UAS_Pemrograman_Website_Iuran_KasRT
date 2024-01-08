@@ -24,10 +24,25 @@
 
 ---
 
-### Link Demo Website : https://ardiiman.contohdomain.com/
-
 ### Link Demo Youtube : https://www.youtube.com/channel/UCdFgY_0msM_DiOgdjM9Xu3g
+
+### Link Demo Website : https://ardiiman.contohdomain.com/
 
 ### Laporan PDF : https://drive.google.com/drive/folders/1sUG2vShCW0Y9OiZV2FogRce3nP9bwQ6i?usp=drive_link
 
+---
+## Output data_warga_user
+![gambar](img/data_warga.png)
+## Output kas_warga_user
+![gambar](img/kas_warga.png)
+## Output laporan_warga_user
+![gambar](img/laporan_warga.png)
+## Output data_warga_admin
+![gambar](img/data_warga_admin.png)
+## Output tambah_data_warga_admin
+![gambar](img/tambah_warga_admin.png)
+## Output tambah_kas_warga_admin
+![gambar](img/tambah_kas_warga.png)
+## Output laporan_warga_admin
+![gambar](img/laporan_warga_admin.png)
 ### Terimakasih
